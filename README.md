@@ -1,5 +1,5 @@
 # Batch_sorting_Rev2
-Extracts the missing data in the desired row and column of Excel
+Extracts the missed data in the desired row and column of Excel
 
 #### Purpose
 - find values excluding lost data
